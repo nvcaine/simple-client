@@ -1,0 +1,37 @@
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+}
+
+.sidebar-nav {
+	padding: 9px 0;
+}
+
+#wrap {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 0 -60px 0;
+}
+
+footer {
+	background-color:#CFCFCF;
+}
+
+@media (max-width: 767px) {
+	footer {
+		margin-left: -20px;
+		margin-right: -20px;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+}
+
+@media (min-width: 979px) {
+
+#mainArea {
+	padding-top: 60px;
+}

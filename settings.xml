@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<settings>
+    <sections>
+        <section>
+            <sectionName>home</sectionName>
+            <templateName>home</templateName>
+            <title>Home</title>
+        </section>
+        <section>
+            <sectionName>users</sectionName>
+            <templateName>users</templateName>
+            <title>Users Portal</title>
+        </section>
+        <section>
+            <sectionName>posts</sectionName>
+            <templateName>posts</templateName>
+            <title>Posts Manager</title>
+        </section>
+    </sections>
+
+    <defaultSection>home</defaultSection>
+
+    <appURL>http://localhost/client-demo/</appURL>
+</settings>
